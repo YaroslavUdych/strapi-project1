@@ -111,4 +111,6 @@ exports
 *.cache
 dist
 build
+.strapi.lock
 .strapi-updater.json
+package-lock.json
